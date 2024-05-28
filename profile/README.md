@@ -17,5 +17,7 @@ Currently no software comes with an information like "Minimum energy requirement
 ## Join the effort
 
 👉 Follow the green-kernel project
+
 👉 Introduce yourself here: https://github.com/orgs/green-kernel/discussions/1
+
 👉 Look at the project page to see what we are up to
