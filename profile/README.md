@@ -21,3 +21,15 @@ Currently no software comes with an information like "Minimum energy requirement
 👉 Introduce yourself here: https://github.com/orgs/green-kernel/discussions/1
 
 👉 Look at the project page to see what we are up to
+
+
+## What we want to achieve:
+
+- An easy to install functioning kernel extension that reports energy consumption on a per process level and / or cgroup to the user space.
+- Packages for major distributions like Debian, Ubuntu, Fedora and Red Hat.
+- A terminal user space program that can be used to see the energy impact each process has.
+- In collaboration with KDE Eco an initial KDE app that shows the gathered data.
+- An established open source project that can easily be used and has a group of people that are ready to maintain the code.
+- Extensive documentation and description on why we chose certain solutions or implantation details. Implementing power measurements is always a tradeoff and such it is important to document each decision in great detail so that it can be scrutinized by the wider community.
+- Overhead measurements of the power reporting capability in our measurement cluster to see how much energy it consumes when active.
+
